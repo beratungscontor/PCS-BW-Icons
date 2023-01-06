@@ -2,9 +2,10 @@
 
 Auflistung der icons
 @@ -1,5 +1,14 @@
-# SAP Business Technology Platform Solution Diagrams &amp; Icons - Custom draw.io library
-Based on v01 (for SAP BTP) from March 26th 2021 including Icon ZIP.
-A huge thanks to [Mauricio Lauffer](https://github.com/mauriciolauffer) for his great contribution, making this library relevant again. 
+
+Based on v01 (for SAP BTP) from March 26th 2021 including Icons for import
+Soruce of BTP Icon implementation in Github Public libs: [Mauricio Lauffer](https://github.com/mauriciolauffer) and [Sletta](https://github.com/rsletta)
+reachable under: https://github.com/rsletta/sap_btp_icons_drawio_lib
 
 ## UPDATE: December 2022 - Auto create SAP BTP Service Icons Latest
 ### Contributed by [@mauriciolauffer](https://github.com/mauriciolauffer)
