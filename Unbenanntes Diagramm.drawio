@@ -1,16 +1,1 @@
-<mxfile host="app.diagrams.net" modified="2023-01-06T10:34:39.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" version="20.8.1" etag="1lyYIDcXcsqUhlGMN25J" type="github">
-  <diagram id="Alxr82C9TOGWSPyZ6P3w" name="Seite-1">
-    <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="jaYffFTqhIgdf3UKCrGt-1" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=https://digitalmarketplace-sapcpprd.s3.eu-central-1.amazonaws.com/k64jXnkrj1AQWEml3cDYhWjWRJ3zxnbCEiXmVsvCIFjfcEkVxO5MMlutu95IbapI.svg" vertex="1" parent="1">
-          <mxGeometry x="240" y="220" width="56" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="jaYffFTqhIgdf3UKCrGt-2" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=https://digitalmarketplace-sapcpprd.s3.eu-central-1.amazonaws.com/JAMTLrK0FHcTBVwZwTMEg1kZdh_gMTi6e8_HFlUYTv8moQQmVdB0zFkyT8HWov0Q.svg" vertex="1" parent="1">
-          <mxGeometry x="420" y="220" width="56" height="56" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-</mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-06T12:32:12.478Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" version="20.8.2" etag="jULCoT4b5Zuk9LZZN1KY" type="github"><diagram id="k-k2015yQH4JC07tdYZm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
