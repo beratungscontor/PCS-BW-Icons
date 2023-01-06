@@ -1,4 +1,4 @@
-#  SAP_BW_Icons @ PCS Beratungscontor AG
+# SAP_BW_Icons @ PCS Beratungscontor AG
 
 Based on v01 (for SAP BTP) from March 26th 2021 including the icons for BTP Icon implementation.
 Author(s): [Mauricio Lauffer](https://github.com/mauriciolauffer) and [Ronnie Sletta](https://github.com/rsletta)
@@ -25,4 +25,4 @@ https://app.diagrams.net/?splash=0&clibs=Uhttps://raw.githubusercontent.com/maur
 Git clone this repo `$ git clone ...`. Install dependencies `$ npm ci`. Run the app `$ npm start`.
 It will access SAP Discovery Center, fetch all services and their icons. The library `SAP_BTP_Service_Icons_latest.xml` will be created.
 
-#  Leitpfaden für Web-Anwendung
+# Leitpfaden für Web-Anwendung
