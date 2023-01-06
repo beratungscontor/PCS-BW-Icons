@@ -1,5 +1,5 @@
 [in Arbeit]
-# SAP_BW_Icons @ PCS Beratungscontor AG
+# SAP BW Icon Library @ PCS Beratungscontor AG
 
 Based on v01 (for SAP BTP) from March 26th 2021 including the icons for BTP Icon implementation.
 Author(s): [Mauricio Lauffer](https://github.com/mauriciolauffer) and [Ronnie Sletta](https://github.com/rsletta)
