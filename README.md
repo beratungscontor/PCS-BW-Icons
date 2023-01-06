@@ -1,4 +1,3 @@
-@@ -1,5 +1,14 @@
 #  SAP_BW_Icons @ PCS Beratungscontor AG
 
 Based on v01 (for SAP BTP) from March 26th 2021 including Icons for import
