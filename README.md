@@ -24,3 +24,5 @@ https://app.diagrams.net/?splash=0&clibs=Uhttps://raw.githubusercontent.com/maur
 
 Git clone this repo `$ git clone ...`. Install dependencies `$ npm ci`. Run the app `$ npm start`.
 It will access SAP Discovery Center, fetch all services and their icons. The library `SAP_BTP_Service_Icons_latest.xml` will be created.
+
+# Leitpfaden für Web-Anwendung
