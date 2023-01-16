@@ -14,6 +14,10 @@ and/or an SAP affiliate company. The SAP Terms of Use found in document [Terms O
 
 https://app.diagrams.net/?splash=0&clibs=Uhttps://raw.githubusercontent.com/mauriciolauffer/sap_btp_icons_drawio_lib/main/libs/SAP_BTP_Service_Icons_latest.xml
 
+## How to Install and Run the Project
+
+## How to Use the Project
+
 # Web-Anwendung (Online)
 The easiest way to consume one of these libraries, is to load them directly via the url parameter 'libs'. List the library urls as a semi-colon separated string.
 
@@ -25,4 +29,5 @@ The easiest way to consume one of these libraries, is to load them directly via 
 Git clone this repo `$ git clone ...`. Install dependencies `$ npm ci`. Run the app `$ npm start`.
 It will access SAP Discovery Center, fetch all services and their icons. The library `SAP_BTP_Service_Icons_latest.xml` will be created.
 
+## How to Contribute to the Project
 
