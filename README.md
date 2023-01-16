@@ -15,6 +15,7 @@ and/or an SAP affiliate company. The SAP Terms of Use found in document [Terms O
 https://app.diagrams.net/?splash=0&clibs=Uhttps://raw.githubusercontent.com/mauriciolauffer/sap_btp_icons_drawio_lib/main/libs/SAP_BTP_Service_Icons_latest.xml
 
 ## How to Install and Run the Project
+[Permalink mit periodisch-aktueller lib einbinden]
 
 ## How to Use the Project
 
