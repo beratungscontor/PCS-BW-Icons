@@ -19,6 +19,8 @@ https://app.diagrams.net/?splash=0&clibs=Uhttps://raw.githubusercontent.com/maur
 
 ## How to Use the Project
 
+White Blank Vorlage: https://app.diagrams.net/?splash=0&clibs=U
+
 # Web-Anwendung (Online)
 The easiest way to consume one of these libraries, is to load them directly via the url parameter 'libs'. List the library urls as a semi-colon separated string.
 https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FIoaKal%2FSAP_BW_Icons%2Fmain%2FPCS_BW_Icons.xml%3Ftoken%3DGHSAT0AAAAAAB5C44T5QMTD6H4UW2G3LZC4Y6GWR7A
