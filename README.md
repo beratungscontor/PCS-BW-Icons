@@ -35,3 +35,5 @@ It will access SAP Discovery Center, fetch all services and their icons. The lib
 
 ## How to Contribute to the Project
 
+White Blank template/clear template: https://app.diagrams.net/?splash=0&clibs=U
+
