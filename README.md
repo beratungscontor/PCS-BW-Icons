@@ -17,12 +17,13 @@ The BTP template as a web application can be reached:
 [SAP BTP Icons](https://app.diagrams.net/?splash=0&clibs=Uhttps://raw.githubusercontent.com/mauriciolauffer/sap_btp_icons_drawio_lib/main/libs/SAP_BTP_Service_Icons_latest.xml)
 
 ## How to Install and Run the Project
- Web-Anwendung (Online)
+the first step is to consider whether to use the Draw.io desktop app with local and manual data integration of the icon libraries or online with the web application. The former variant allows the libraries to be customized according to the user's own preferences.
+
+# Web-App (Online)
 For the web application, an initial link is available that includes the icons of the current state.
 Accessable: [PCS SAP BW Icons](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FIoaKal%2FSAP_BW_Icons%2Fmain%2FPCS_BW_Icons.xml%3Ftoken%3DGHSAT0AAAAAAB5C44T4DI6CJYQOQDX7OUO2Y6GYWLA)
 
-Desktop-Anwendung (Lokal)
-
+# Desktop-App (Lokal)
 First, the "PCS BW Icons" file must be loaded from the repository and saved locally. Then the file can be added to the desktop application via drag & drop. If the project is saved, the icon library remains.
 
 ## UPDATE: December 2022 - Auto create SAP BTP Service Icons Latest
