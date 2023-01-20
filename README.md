@@ -21,7 +21,7 @@ White Blank Vorlage: https://app.diagrams.net/?splash=0&clibs=U
 
 # Web-Anwendung (Online)
 For the web application, an initial link is available that includes the icons of the current state.
-[Draw.io Web-App PCS](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FIoaKal%2FSAP_BW_Icons%2Fmain%2FPCS_BW_Icons.xml%3Ftoken%3DGHSAT0AAAAAAB5C44T4DI6CJYQOQDX7OUO2Y6GYWLA)
+[PCS Draw.io Access](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FIoaKal%2FSAP_BW_Icons%2Fmain%2FPCS_BW_Icons.xml%3Ftoken%3DGHSAT0AAAAAAB5C44T4DI6CJYQOQDX7OUO2Y6GYWLA)
 
 # Desktop-Anwendung (Lokal)
 
