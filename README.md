@@ -1,4 +1,4 @@
-[in Arbeit]
+[Testing Environment - in progress]
 # SAP BW Icon Library @ PCS Beratungscontor AG
 
 Based on v01 (for SAP BTP) from March 26th 2021 including the icons for BTP Icon implementation.
