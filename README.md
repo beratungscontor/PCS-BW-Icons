@@ -1,6 +1,8 @@
 [Testing Environment - in progress]
 # SAP BW Icon Library @ PCS Beratungscontor AG
 
+Welcome to the PCS SAP Repository for 
+
 Based on v01 (for SAP BTP) from March 26th 2021 regarding an implementation of SAP BTP Icons in Draw.io.
 Author(s): [Mauricio Lauffer](https://github.com/mauriciolauffer) and [Ronnie Sletta](https://github.com/rsletta)
 Their Repository is reachable under: https://github.com/rsletta/sap_btp_icons_drawio_lib
