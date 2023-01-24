@@ -30,7 +30,7 @@ Download the Desktop-App and chose your windows installation: [Draw.io Desktop-A
 
 First the "PCS BW Icons" file must be loaded from the repository and saved locally. You can use for this the Zip-file. Then the file can be added to the desktop application via drag & drop. If the user saves the projects, the icon library will remain for further proceeds.
 
-Download the latest lib here: [ZIP file](https://github.com/IoaKal/pcs-bw-icons/blob/main/PCS_BW_Icons.zip)
+Download the latest lib here: **[ZIP file](https://github.com/IoaKal/pcs-bw-icons/blob/main/PCS_BW_Icons.zip)**
 
 ## UPDATE: December 2022 - Auto create SAP BTP Service Icons Latest
 ### Contributed by [@mauriciolauffer](https://github.com/mauriciolauffer)
