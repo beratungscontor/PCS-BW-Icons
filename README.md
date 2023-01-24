@@ -13,7 +13,6 @@ Custom library for PCS SAP BW Icons in [Draw.io](https://app.diagrams.net/), bas
 and/or an SAP affiliate company.
 
 The BTP template as a web application can be reached:
-
 [SAP BTP Icons](https://app.diagrams.net/?splash=0&clibs=Uhttps://raw.githubusercontent.com/mauriciolauffer/sap_btp_icons_drawio_lib/main/libs/SAP_BTP_Service_Icons_latest.xml)
 
 ## How to Install and Run the Project
