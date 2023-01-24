@@ -25,7 +25,7 @@ Accessable: [PCS SAP BW Icons](https://app.diagrams.net/?splash=0&clibs=Uhttps%3
 
 # Desktop-App (Local)
 First, the "PCS BW Icons" file must be loaded from the repository and saved locally. Then the file can be added to the desktop application via drag & drop. If the project is saved, the icon library remains.
-Download the latest lib here: [ZIP file] (https://github.com/IoaKal/pcs-bw-icons/blob/main/PCS_BW_Icons.zip)
+Download the latest lib here: [ZIP file](https://github.com/IoaKal/pcs-bw-icons/blob/main/PCS_BW_Icons.zip)
 ## UPDATE: December 2022 - Auto create SAP BTP Service Icons Latest
 ### Contributed by [@mauriciolauffer](https://github.com/mauriciolauffer)
 
