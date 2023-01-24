@@ -26,7 +26,7 @@ For the web application, an initial link is available that includes the icons of
 Web-app with preinstalled BW Icons accessable via: **[PCS Template](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FIoaKal%2FSAP_BW_Icons%2Fmain%2FPCS_BW_Icons.xml%3Ftoken%3DGHSAT0AAAAAAB5C44T4DI6CJYQOQDX7OUO2Y6GYWLA)**
 
 ### Usage in Desktop-Applikation (Local)
-Download the Desktop-App and chose your windows installation: [Draw.io Desktop-App](https://github.com/jgraph/drawio-desktop/releases/tag/v20.7.4)
+Download the Desktop-App and chose your windows installation: **[Draw.io Desktop-App](https://github.com/jgraph/drawio-desktop/releases/tag/v20.7.4)**
 
 First the "PCS BW Icons" file must be loaded from the repository and saved locally. You can use for this the Zip-file. Then the file can be added to the desktop application via drag & drop. If the user saves the projects, the icon library will remain for further proceeds.
 
