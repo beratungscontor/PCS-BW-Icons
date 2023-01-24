@@ -1,7 +1,7 @@
 [Testing Environment - in progress]
 # SAP BW Icon Library @ PCS Beratungscontor AG
 
-Based on v01 (for SAP BTP) from March 26th 2021 including the icons for BTP Icon implementation.
+Based on v01 (for SAP BTP) from March 26th 2021 regarding an implementation of SAP BTP Icons in Draw.io.
 Author(s): [Mauricio Lauffer](https://github.com/mauriciolauffer) and [Ronnie Sletta](https://github.com/rsletta)
 
 Their Repository is reachable under: https://github.com/rsletta/sap_btp_icons_drawio_lib
@@ -12,7 +12,7 @@ Their Repository is reachable under: https://github.com/rsletta/sap_btp_icons_dr
 Custom library for PCS SAP BW Icons in [Draw.io](https://app.diagrams.net/), based on [SAP Business Technology Platform Solution Diagrams & Icons](https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=477829554). These libraries are made for convenience and may be retracted at any time, on discretion by SAP SE. All rights reserved SAP SE. The SAP Materials and all copies shall remain at all times the exclusive property of SAP SE
 and/or an SAP affiliate company.
 
-The BTP template as a web application can be reached:
+The BTP template as a web application can be reached via:
 [SAP BTP Icons](https://app.diagrams.net/?splash=0&clibs=Uhttps://raw.githubusercontent.com/mauriciolauffer/sap_btp_icons_drawio_lib/main/libs/SAP_BTP_Service_Icons_latest.xml)
 
 ## How to Install and Run the Project
@@ -26,6 +26,7 @@ Accessable: [PCS SAP BW Icons](https://app.diagrams.net/?splash=0&clibs=Uhttps%3
 First, the "PCS BW Icons" file must be loaded from the repository and saved locally. Then the file can be added to the desktop application via drag & drop. If the project is saved, the icon library remains.
 
 Download the latest lib here: [ZIP file](https://github.com/IoaKal/pcs-bw-icons/blob/main/PCS_BW_Icons.zip)
+
 ## UPDATE: December 2022 - Auto create SAP BTP Service Icons Latest
 ### Contributed by [@mauriciolauffer](https://github.com/mauriciolauffer)
 
