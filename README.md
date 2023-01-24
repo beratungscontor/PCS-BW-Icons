@@ -1,7 +1,7 @@
 [Testing Environment - in progress]
 # SAP BW Icon Library @ PCS Beratungscontor AG
 
-Welcome to the PCS SAP Repository for 
+### Welcome to the PCS SAP Repository for SAP BW Icon Integration 
 
 *The following content is adapted from v01 "SAP Cloud Platform Solution Diagrams & Icons - Custom draw.io library" (for SAP BTP) which is based on March 26th 2021 and is concerned with an implementation of SAP BTP Icons in Draw.io.
 Author(s): [Mauricio Lauffer](https://github.com/mauriciolauffer) and [Ronnie Sletta](https://github.com/rsletta)*
