@@ -3,10 +3,9 @@
 
 ### Welcome to the PCS SAP Repository for SAP BW Icon Integration 
 
-*The following content is adapted from "SAP Cloud Platform Solution Diagrams & Icons - Custom draw.io library" (for SAP BTP) and ["Create SAP BTP solution diagrams with Draw.io (Diagrams.net)"](https://blogs.sap.com/2022/11/07/create-sap-btp-solution-diagrams-with-draw.io-diagrams.net/)
-Author(s): [Mauricio Lauffer](https://github.com/mauriciolauffer) and [Ronnie Sletta](https://github.com/rsletta)*
+*The following content is adapted from ["SAP Cloud Platform Solution Diagrams & Icons - Custom draw.io library"](https://github.com/rsletta/sap_btp_icons_drawio_lib) and ["Create SAP BTP solution diagrams with Draw.io (Diagrams.net)"](https://blogs.sap.com/2022/11/07/create-sap-btp-solution-diagrams-with-draw.io-diagrams.net/)
+Author(s): [Ronnie Sletta](https://github.com/rsletta) and [Mauricio Lauffer](https://github.com/mauriciolauffer)*
 
-Their Repository is reachable under: https://github.com/rsletta/sap_btp_icons_drawio_lib
 
 
 ## What is this about?
