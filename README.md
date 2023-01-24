@@ -23,7 +23,7 @@ the first step is to consider whether to use the Draw.io desktop-app with local 
 For the web application, an initial link is available that includes the icons of the current state.
 Accessable: [PCS SAP BW Icons](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FIoaKal%2FSAP_BW_Icons%2Fmain%2FPCS_BW_Icons.xml%3Ftoken%3DGHSAT0AAAAAAB5C44T4DI6CJYQOQDX7OUO2Y6GYWLA)
 
-# Desktop-App (Lokal)
+# Desktop-App (Local)
 First, the "PCS BW Icons" file must be loaded from the repository and saved locally. Then the file can be added to the desktop application via drag & drop. If the project is saved, the icon library remains.
 
 ## UPDATE: December 2022 - Auto create SAP BTP Service Icons Latest
