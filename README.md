@@ -22,7 +22,7 @@ For the web application, an initial link is available that includes the icons of
 
 Web-app with preinstalled BW Icons accessable via: [PCS Template](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FIoaKal%2FSAP_BW_Icons%2Fmain%2FPCS_BW_Icons.xml%3Ftoken%3DGHSAT0AAAAAAB5C44T4DI6CJYQOQDX7OUO2Y6GYWLA)
 
-# Usage in Desktop-App (Local)
+# Usage in Desktop-Applikation (Local)
 First, the "PCS BW Icons" file must be loaded from the repository and saved locally. Then the file can be added to the desktop application via drag & drop. If the project is saved, the icon library remains.
 
 Download the latest lib here: [ZIP file](https://github.com/IoaKal/pcs-bw-icons/blob/main/PCS_BW_Icons.zip)
