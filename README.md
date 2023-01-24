@@ -18,6 +18,7 @@ The BTP template in a web application can be reached via:
 
 ## How to Install and Run the Project
 The first step is to consider whether to use the templates in the Draw.io desktop-application with local and manual data integration of the icon libraries, or online within the web-application and integrated lib. The former variant allows the libraries to be customized according to the user's own preferences.
+ 
 
 ### Usage in Web-Applikation (Online)
 For the web application, an initial link is available that includes the icons of the current state.
@@ -25,6 +26,7 @@ For the web application, an initial link is available that includes the icons of
 Web-app with preinstalled BW Icons accessable via: **[PCS Template](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FIoaKal%2FSAP_BW_Icons%2Fmain%2FPCS_BW_Icons.xml%3Ftoken%3DGHSAT0AAAAAAB5C44T4DI6CJYQOQDX7OUO2Y6GYWLA)**
 
 ### Usage in Desktop-Applikation (Local)
+Download the Desktop-App and chose your windows installation: [Draw.io Desktop-App](https://github.com/jgraph/drawio-desktop/releases/tag/v20.7.4)
 First, the "PCS BW Icons" file must be loaded from the repository and saved locally. Then the file can be added to the desktop application via drag & drop. If the project is saved, the icon library remains.
 
 Download the latest lib here: [ZIP file](https://github.com/IoaKal/pcs-bw-icons/blob/main/PCS_BW_Icons.zip)
