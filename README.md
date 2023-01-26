@@ -27,7 +27,7 @@ First the "PCS BW Icons" file must be loaded from the repository and saved local
 Download the latest lib here: **[ZIP file](https://github.com/IoaKal/pcs-bw-icons/blob/main/PCS_BW_Icons.zip)**
 
 
-##### How to Contribute to the Project
+## How to Contribute to the Project
 
 White Blank template/clear template:
 ```Powershell
