@@ -26,7 +26,7 @@ Access the template: **[PCS Template](https://app.diagrams.net/?splash=0&clibs=U
 ## Local Usage | desktop-application
 Download the Desktop-App and chose your windows installation: *[Draw.io Desktop-App](https://github.com/jgraph/drawio-desktop/releases/tag/v20.7.4)* 
 
-Then the *'PCS BW Icons*-file must be loaded from the repository and saved locally. You can use for this the Zip-file. The file can be added to the desktop application via drag & drop. If the user saves the projects, the icon library will remain for further proceeds.
+Then the *'PCS BW Icons'*-file must be loaded from the repository and saved locally. You can use for this the Zip-file. The file can be added to the desktop application via drag & drop. If the user saves the projects, the icon library will remain for further proceeds.
 
 Access the download and the latest lib here: **[ZIP-File](https://github.com/IoaKal/pcs-bw-icons/blob/main/PCS_BW_Icons.zip)** (01/23)
 
