@@ -7,10 +7,13 @@ Custom library for PCS SAP BW Icons in [Draw.io](https://app.diagrams.net/), bas
 and/or an SAP affiliate company.The BTP template in a web application can be reached via: **[Template with SAP BTP Icons](https://app.diagrams.net/?splash=0&clibs=Uhttps://raw.githubusercontent.com/mauriciolauffer/sap_btp_icons_drawio_lib/main/libs/SAP_BTP_Service_Icons_latest.xml)**
 
 The goal is a **SAP Business Warehouse Icon Library** to support visualization of data model. Therefore you can link your Draw.io (Diagrams.net) with cloud-based applications or like in this case – with your Github repository.
+
+A first version is already build and operational:
 | integrated lib:
 | ------------- 
 | ![Github_picture_pcs_icons](https://user-images.githubusercontent.com/117898322/214814243-7f638b45-7106-4af1-8961-1f32d0487f10.png)
 
+You can consume the library in different ways. Either you can use the online templates or even offline
 
 ## How to Install and Run the Project
 The first step is to consider whether to use the templates in the Draw.io desktop-application with local and manual data integration of the icon libraries, or online within the web-application and integrated lib. The former variant allows the libraries to be customized according to the user's own preferences.
@@ -35,7 +38,7 @@ White Blank template/clear template:
 ```Powershell
 https://app.diagrams.net/?splash=0&clibs=U
 ```
-As mentioned you can customize your own lib when you work within your local environment. To improve the Github repository and in particular the Repository for SAP Business Warehouse Icons for data modelling in Draw.io you can contribute by adding and updating new or existing Icons for Business Warehouse context.
+The library is not yet complete. As mentioned you can customize your own lib when you work within your local environment. To improve the Github repository and in particular the Repository for SAP Business Warehouse Icons for data modelling in Draw.io you can contribute by adding and updating new or existing Icons for Business Warehouse context.
 
 - in drawio follow the path: File -> New library -> name your Library and add icons -> afterwards save
 - you created a xml-file which can be shared (OneDrive, Teams etc.)
