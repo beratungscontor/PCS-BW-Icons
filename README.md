@@ -34,3 +34,9 @@ White Blank template/clear template:
 https://app.diagrams.net/?splash=0&clibs=U
 ```
 As mentioned you can customize your own lib when you work within your local environment. To improve the Github repository and in particular the Repository for SAP Business Warehouse Icons for data modelling in Draw.io you can contribute by adding and updating new or existing Icons for Business Warehouse context.
+
+- in drawio follow the path: File -> New library -> name your Library and add icons -> afterwards save
+- you created a xml-file which can be shared (OneDrive, Teams etc.)
+- the new file will overwrite the old file in the repository and add new icons
+
+In order to maintain the function of the search-engine in Draw.io please pay attention and assign reasonable object names when you create Icons (e.g. for Data-Store-Object advanced: "ADSO")
