@@ -22,7 +22,9 @@ The first step is to consider whether to use the templates in the Draw.io deskto
 For the web application, an initial link is available that includes the icons of the current state. Web-App with preinstalled BW Icons accessable via: **[PCS Template](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FIoaKal%2Fpcs-bw-icons%2Fmain%2FPCS_BW_Icons.xml)** (01/23)
 
 #### Usage in Desktop-Applikation (Local)
-Download the Desktop-App and chose your windows installation: *[Draw.io Desktop-App](https://github.com/jgraph/drawio-desktop/releases/tag/v20.7.4)* Then the ['PCS BW Icons'](https://github.com/IoaKal/pcs-bw-icons/blob/main/PCS_BW_Icons.xml)-file must be loaded from the repository and saved locally. You can use for this the Zip-file. The file can be added to the desktop application via drag & drop. If the user saves the projects, the icon library will remain for further proceeds.
+Download the Desktop-App and chose your windows installation: *[Draw.io Desktop-App](https://github.com/jgraph/drawio-desktop/releases/tag/v20.7.4)* 
+
+Then the ['PCS BW Icons'](https://github.com/IoaKal/pcs-bw-icons/blob/main/PCS_BW_Icons.xml)-file must be loaded from the repository and saved locally. You can use for this the Zip-file. The file can be added to the desktop application via drag & drop. If the user saves the projects, the icon library will remain for further proceeds.
 
 Download the latest lib here: **[ZIP-File](https://github.com/IoaKal/pcs-bw-icons/blob/main/PCS_BW_Icons.zip)** (01/23)
 
@@ -38,17 +40,10 @@ The library is not yet complete. As mentioned you can customize your own lib whe
 In order to maintain the function of the search-engine in Draw.io please pay attention and assign reasonable object names when you create Icons (e.g. for Data-Store-Object advanced: "ADSO")
 
 You can find a blank template without any preloaded libraries under:
-https://app.diagrams.net/?splash=0&clibs=U
-
 
 ```Powershell
-also use to add URL parameters:
-https://app.diagrams.net/?splash=0&clibs=U
-
-after you encode your lib URL-links, you can add them behind: 
-
-https://app.diagrams.net/?splash=0&clibs=U(PasteEncodedLinkHere)
+[https://app.diagrams.net/?splash=0&clibs=U](https://app.diagrams.net/?splash=0&clibs=U)
 ```
-further commands can be found here: [libs](https://www.diagrams.net/doc/faq/supported-url-parameters)
+
 
 
