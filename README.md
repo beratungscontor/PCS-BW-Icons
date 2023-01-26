@@ -47,4 +47,6 @@ when you   encode your lib URL-links, you can add them behind
 
 https://app.diagrams.net/?splash=0&clibs=U(PasteLinkHere)
 ```
+further commands can be found here: [libs](https://www.diagrams.net/doc/faq/supported-url-parameters)
+
 
