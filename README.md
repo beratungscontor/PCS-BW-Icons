@@ -18,18 +18,20 @@ A first version is already build and operational:
 The first step is to consider whether to use the templates in the Draw.io desktop-application with local and manual data integration of the icon libraries, or online within the web-application and integrated lib. The former variant allows the libraries to be customized according to the user's own preferences.
  
 
-#### Usage in Web-Applikation (Online)
+## Usage in Web-Applikation (Online)
 For the web application, an initial link is available that includes the icons of the current state. *Template contains SAP | SAP BTP | BW Icons) (01/23)* 
+This Web-App is attached with libraries from this repository and will generate automatically a browser-based Session. No further action is needed. 
 
-Web-App with preinstalled BW Icons accessable via: **[PCS Template](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FIoaKal%2Fpcs-bw-icons%2Fmain%2FPCS_BW_Icons.xml;https%3A%2F%2Fgithub.com%2FIoaKal%2Fpcs-bw-icons%2Fblob%2Fmain%2FSAP_BTP_Service_Icons.xml;https%3A%2F%2Fgithub.com%2FIoaKal%2Fpcs-bw-icons%2Fblob%2Fmain%2FSAP_Icons.xml;https%3A%2F%2Fgithub.com%2FIoaKal%2Fpcs-bw-icons%2Fblob%2Fmain%2FSAP_BTP_Service_Icons_Circles.xml)** 
+Access the template: **[PCS Template](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FIoaKal%2Fpcs-bw-icons%2Fmain%2FPCS_BW_Icons.xml;https%3A%2F%2Fgithub.com%2FIoaKal%2Fpcs-bw-icons%2Fblob%2Fmain%2FSAP_BTP_Service_Icons.xml;https%3A%2F%2Fgithub.com%2FIoaKal%2Fpcs-bw-icons%2Fblob%2Fmain%2FSAP_Icons.xml;https%3A%2F%2Fgithub.com%2FIoaKal%2Fpcs-bw-icons%2Fblob%2Fmain%2FSAP_BTP_Service_Icons_Circles.xml)** 
 
 
 
-#### Usage in Desktop-Applikation (Local)
+### Usage in Desktop-Applikation (Local)
 Download the Desktop-App and chose your windows installation: *[Draw.io Desktop-App](https://github.com/jgraph/drawio-desktop/releases/tag/v20.7.4)* 
 
 Then the *['PCS BW Icons'](https://github.com/IoaKal/pcs-bw-icons/blob/main/PCS_BW_Icons.xml)*-file must be loaded from the repository and saved locally. You can use for this the Zip-file. The file can be added to the desktop application via drag & drop. If the user saves the projects, the icon library will remain for further proceeds.
-Download the latest lib here: **[ZIP-File](https://github.com/IoaKal/pcs-bw-icons/blob/main/PCS_BW_Icons.zip)** (01/23)
+
+Access the download and the latest lib here: **[ZIP-File](https://github.com/IoaKal/pcs-bw-icons/blob/main/PCS_BW_Icons.zip)** (01/23)
 
 
 ## How to Contribute to the Project
