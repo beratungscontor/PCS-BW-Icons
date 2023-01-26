@@ -33,4 +33,4 @@ White Blank template/clear template:
 ```Powershell
 https://app.diagrams.net/?splash=0&clibs=U
 ```
-
+As mentioned you can customize your own lib when you work within your local environment. To improve the Github repository and in particular the Repository for SAP Business Warehouse Icons for data modelling in Draw.io you can contribute by adding and updating new or existing Icons for Business Warehouse context.
