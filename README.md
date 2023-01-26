@@ -33,7 +33,7 @@ Download the latest lib here: **[ZIP-File](https://github.com/IoaKal/pcs-bw-icon
 
 The library is not yet complete. As mentioned you can customize your own lib when you work within your local environment. To improve the Github repository and in particular the Repository for SAP Business Warehouse Icons for data modelling in Draw.io you can contribute by adding and updating new or existing Icons for Business Warehouse context.
 
-- in drawio follow the path: File -> New library -> name your Library and add icons -> afterwards save
+- in drawio follow the path and create a new icon-library: File -> New library -> name your Library and add icons -> afterwards save
 - you created a xml-file which can be shared (OneDrive, Teams etc.)
 - this file will replace the old one and will keep the Web-App template in current state
 
