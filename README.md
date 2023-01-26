@@ -21,7 +21,7 @@ The first step is to consider whether to use the templates in the Draw.io deskto
 For the web application, an initial link is available that includes the icons of the current state. *Template contains SAP | SAP BTP | BW Icons) (01/23)* 
 This Web-App is attached with libraries from this repository and will generate automatically a browser-based Session. No further actions are required. 
 
-**Access the template**: **[PCS Template](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FIoaKal%2Fpcs-bw-icons%2Fmain%2FPCS_BW_Icons.xml;https%3A%2F%2Fgithub.com%2FIoaKal%2Fpcs-bw-icons%2Fblob%2Fmain%2FSAP_BTP_Service_Icons.xml;https%3A%2F%2Fgithub.com%2FIoaKal%2Fpcs-bw-icons%2Fblob%2Fmain%2FSAP_Icons.xml;https%3A%2F%2Fgithub.com%2FIoaKal%2Fpcs-bw-icons%2Fblob%2Fmain%2FSAP_BTP_Service_Icons_Circles.xml)** 
+**Access the template**: **[PCS Template](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FIoaKal%2Fpcs-bw-icons%2Fmain%2FPCS_BW_Icons.xml;Uhttps%3A%2F%2Fgithub.com%2FIoaKal%2Fpcs-bw-icons%2Fblob%2Fmain%2FSAP_BTP_Service_Icons.xml;Uhttps%3A%2F%2Fgithub.com%2FIoaKal%2Fpcs-bw-icons%2Fblob%2Fmain%2FSAP_Icons.xml;Uhttps%3A%2F%2Fgithub.com%2FIoaKal%2Fpcs-bw-icons%2Fblob%2Fmain%2FSAP_BTP_Service_Icons_Circles.xml)** 
 
 ## Local Usage | desktop-application
 Download the Desktop-App and chose your windows installation: *[Draw.io Desktop-App](https://github.com/jgraph/drawio-desktop/releases/tag/v20.7.4)* 
