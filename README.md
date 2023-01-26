@@ -4,7 +4,7 @@
 Author(s): [Ronnie Sletta](https://github.com/rsletta) and [Mauricio Lauffer](https://github.com/mauriciolauffer)*
 ## What is this about?
 Custom library for PCS SAP BW Icons in [Draw.io](https://app.diagrams.net/), based on [SAP Business Technology Platform Solution Diagrams & Icons](https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=477829554). These libraries are made for convenience and may be retracted at any time, on discretion by SAP SE. All rights reserved SAP SE. The SAP Materials and all copies shall remain at all times the exclusive property of SAP SE
-and/or an SAP affiliate company.The BTP template in a web application can be reached via: *[Template with SAP BTP icons](https://app.diagrams.net/?splash=0&clibs=Uhttps://raw.githubusercontent.com/mauriciolauffer/sap_btp_icons_drawio_lib/main/libs/SAP_BTP_Service_Icons_latest.xml)*
+and/or an SAP affiliate company.
 
 The goal is a **SAP Business Warehouse Icon Library** to support visualization of data model. Therefore you can link your Draw.io (Diagrams.net) with cloud-based applications or like in this case – with your Github repository.
 
@@ -20,6 +20,7 @@ The first step is to consider whether to use the templates in the Draw.io deskto
 
 #### Usage in Web-Applikation (Online)
 For the web application, an initial link is available that includes the icons of the current state. *Template contains SAP | SAP BTP | BW Icons) (01/23)* 
+
 Web-App with preinstalled BW Icons accessable via: **[PCS Template](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FIoaKal%2Fpcs-bw-icons%2Fmain%2FPCS_BW_Icons.xml;https%3A%2F%2Fgithub.com%2FIoaKal%2Fpcs-bw-icons%2Fblob%2Fmain%2FSAP_BTP_Service_Icons.xml;https%3A%2F%2Fgithub.com%2FIoaKal%2Fpcs-bw-icons%2Fblob%2Fmain%2FSAP_Icons.xml;https%3A%2F%2Fgithub.com%2FIoaKal%2Fpcs-bw-icons%2Fblob%2Fmain%2FSAP_BTP_Service_Icons_Circles.xml)** 
 
 
