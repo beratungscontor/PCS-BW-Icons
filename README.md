@@ -40,12 +40,14 @@ In order to maintain the function of the search-engine in Draw.io please pay att
 You can find a blank template without any preloaded libraries under:
 https://app.diagrams.net/?splash=0&clibs=U
 
-```Powershell
-also use to add URL parameters
-https://app.diagrams.net/?splash=0&clibs=U
-when you   encode your lib URL-links, you can add them behind 
 
-https://app.diagrams.net/?splash=0&clibs=U(PasteLinkHere)
+```Powershell
+also use to add URL parameters:
+https://app.diagrams.net/?splash=0&clibs=U
+
+after you encode your lib URL-links, you can add them behind: 
+
+https://app.diagrams.net/?splash=0&clibs=U(PasteEncodedLinkHere)
 ```
 further commands can be found here: [libs](https://www.diagrams.net/doc/faq/supported-url-parameters)
 
