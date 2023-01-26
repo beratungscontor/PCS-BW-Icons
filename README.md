@@ -19,7 +19,7 @@ The first step is to consider whether to use the templates in the Draw.io deskto
  
 
 #### Usage in Web-Applikation (Online)
-For the web application, an initial link is available that includes the icons of the current state. Web-App with preinstalled BW Icons accessable via: **[PCS Template](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FIoaKal%2Fpcs-bw-icons%2Fmain%2FPCS_BW_Icons.xml)** (01/23)
+For the web application, an initial link is available that includes the icons of the current state. Web-App with preinstalled BW Icons accessable via: **[PCS Template](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FIoaKal%2Fpcs-bw-icons%2Fmain%2FPCS_BW_Icons.xml;https%3A%2F%2Fgithub.com%2FIoaKal%2Fpcs-bw-icons%2Fblob%2Fmain%2FSAP_BTP_Service_Icons.xml)** (01/23)
 
 #### Usage in Desktop-Applikation (Local)
 Download the Desktop-App and chose your windows installation: *[Draw.io Desktop-App](https://github.com/jgraph/drawio-desktop/releases/tag/v20.7.4)* 
