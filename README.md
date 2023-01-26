@@ -35,7 +35,7 @@ The library is not yet complete. As mentioned you can customize your own lib whe
 
 - in drawio follow the path: File -> New library -> name your Library and add icons -> afterwards save
 - you created a xml-file which can be shared (OneDrive, Teams etc.)
-- the new file will overwrite the old file in the repository and add new icons
+- this file will replace the old one and will keep the Web-App template in current state
 
 In order to maintain the function of the search-engine in Draw.io please pay attention and assign reasonable object names when you create Icons (e.g. for Data-Store-Object advanced: "ADSO")
 
