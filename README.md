@@ -42,7 +42,7 @@ In order to maintain the function of the search-engine in Draw.io please pay att
 You can find a blank template without any preloaded libraries under:
 
 ```Powershell
-[https://app.diagrams.net/?splash=0&clibs=U](https://app.diagrams.net/?splash=0&clibs=U)
+https://app.diagrams.net/?splash=0&clibs=U
 ```
 
 
