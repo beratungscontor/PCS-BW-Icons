@@ -21,14 +21,14 @@ The first step is to consider whether to use the templates in the Draw.io deskto
 For the web application, an initial link is available that includes the icons of the current state. *Template contains SAP | SAP BTP | BW Icons) (01/23)* 
 This Web-App is attached with libraries from this repository and will generate automatically a browser-based Session. No further actions are required. 
 
-**Access the template**: **[PCS Template](https://app.diagrams.net/?splash=0&clibs=Uhttps://raw.githubusercontent.com/IoaKal/pcs-bw-icons/main/PCS_BW_Icons.xml;Uhttps://raw.githubusercontent.com/IoaKal/pcs-bw-icons/main/SAP_Icons.xml;Uhttps://raw.githubusercontent.com/IoaKal/pcs-bw-icons/main/SAP_BTP_Service_Icons.xml)** (01/23)
+**Access the template**: **[PCS Template](https://app.diagrams.net/?splash=0&clibs=Uhttps://raw.githubusercontent.com/IoaKal/pcs-bw-icons/main/PCS_BW_Icons.xml;Uhttps://raw.githubusercontent.com/IoaKal/pcs-bw-icons/main/SAP_Icons.xml;Uhttps://raw.githubusercontent.com/IoaKal/pcs-bw-icons/main/SAP_BTP_Service_Icons.xml)** (last updated 01/23)
 
 ## Local Usage | desktop-application
 Download the Desktop-App and chose your windows installation: *[Draw.io Desktop-App](https://github.com/jgraph/drawio-desktop/releases/tag/v20.7.4)* 
 
 Then the *'PCS BW Icons'*-file must be loaded from the repository and saved locally. You can use for this the Zip-file. The file can be added to the desktop application via drag & drop. If the user saves the projects, the icon library will remain for further proceeds.
 
-**Access the download and the latest lib here**: **[ZIP-File](https://github.com/IoaKal/pcs-bw-icons/blob/main/PCS_BW_Icons.zip)** (01/23)
+**Access the download and the latest lib here**: **[ZIP-File](https://github.com/IoaKal/pcs-bw-icons/blob/main/PCS_BW_Icons.zip)** (last updated 01/23)
 
 
 ## How to Contribute to the Project
