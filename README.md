@@ -1,6 +1,8 @@
+[In Arbeit]
 # SAP BW Icon Library @ PCS Beratungscontor AG
 ### Welcome to the PCS SAP Repository for SAP BW Icon Integration in Draw.io
-*This content follows the structure of ["SAP Cloud Platform Solution Diagrams & Icons - Custom draw.io library"](https://github.com/rsletta/sap_btp_icons_drawio_lib) and ["Create SAP BTP solution diagrams with Draw.io (Diagrams.net)"](https://blogs.sap.com/2022/11/07/create-sap-btp-solution-diagrams-with-draw.io-diagrams.net/)
+*This content follows the structure of ["SAP Cloud Platform Solution Diagrams & Icons - Custom draw.io library"](https://github.com/rsletta/sap_btp_icons_drawio_lib) and ["Create SAP BTP solution diagrams with Draw.io (Diagrams.net)"](https://blogs.sap.com/2
+2/11/07/create-sap-btp-solution-diagrams-with-draw.io-diagrams.net/)
 Author(s): [Ronnie Sletta](https://github.com/rsletta) and [Mauricio Lauffer](https://github.com/mauriciolauffer)*
 
 ## What is this about?
@@ -18,17 +20,17 @@ A first version is already build and operational:
 The first step is to consider whether to use the templates in the Draw.io desktop-application with local and manual data integration of the icon libraries, or online within the web-application and integrated lib. The former variant allows the libraries to be customized according to the user's own preferences.
  
 ## Online Usage | web-application
-For the web application, an initial link is available that includes the icons of the current state. *Template contains SAP | SAP BTP | BW Icons) (01/23)* 
+For the web application, an initial link is available that includes the icons of the current state. *Template contains SAP | SAP BTP | BW Icons) (03/23)* 
 This Web-App is attached with libraries from this repository and will generate automatically a browser-based Session. No further actions are required. 
 
-**Access the template**: **[PCS Template](https://app.diagrams.net/?splash=0&clibs=Uhttps://raw.githubusercontent.com/IoaKal/pcs-bw-icons/main/PCS_BW_Icons.xml;Uhttps://raw.githubusercontent.com/IoaKal/pcs-bw-icons/main/SAP_Icons.xml;Uhttps://raw.githubusercontent.com/IoaKal/pcs-bw-icons/main/SAP_BTP_Service_Icons.xml)** (last updated 01/23)
+**Access the template**: **[PCS Template](https://app.diagrams.net/?splash=0&clibs=Uhttps://raw.githubusercontent.com/IoaKal/pcs-bw-icons/main/PCS_BW_Icons.xml;Uhttps://raw.githubusercontent.com/IoaKal/pcs-bw-icons/main/SAP_Icons.xml;Uhttps://raw.githubusercontent.com/IoaKal/pcs-bw-icons/main/SAP_BTP_Service_Icons.xml)** (last updated 03/23)
 
 ## Local Usage | desktop-application
 Download the Desktop-App and chose your windows installation: *[Draw.io Desktop-App](https://github.com/jgraph/drawio-desktop/releases/tag/v20.7.4)* 
 
 Then the *'PCS BW Icons'*-file must be loaded from the repository and saved locally. You can use for this the Zip-file. The file can be added to the desktop application via drag & drop. If the user saves the projects, the icon library will remain for further proceeds.
 
-**Access the download and the latest lib here**: **[ZIP-File](https://github.com/IoaKal/pcs-bw-icons/blob/main/PCS_BW_Icons.zip)** (last updated 01/23)
+**Access the download and the latest lib here**: **[ZIP-File](https://github.com/IoaKal/pcs-bw-icons/blob/main/PCS_BW_Icons.zip)** (last updated 03/23)
 
 
 ## How to Contribute to the Project
