@@ -30,7 +30,7 @@ Download the Desktop-App and chose your windows installation: *[Draw.io Desktop-
 
 Then the *'PCS BW Icons'*-file must be loaded from the repository and saved locally. You can use for this the Zip-file. The file can be added to the desktop application via drag & drop. If the user saves the projects, the icon library will remain for further proceeds.
 
-**Access the download and the latest lib here**: **[ZIP-File](https://github.com/IoaKal/pcs-bw-icons/blob/main/PCS_BW_Icons.zip)** (last updated 03/23)
+**Access the download and the latest lib here**: **[ZIP-File](https://github.com/IoaKal/pcs-bw-icons/blob/main/ZIP/PCS_BW_Icons.zip)** (last updated 03/23)
 
 
 ## How to Contribute to the Project
