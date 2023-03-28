@@ -39,8 +39,6 @@ You can find a blank template without any preloaded libraries under:
 ```Powershell
 https://app.diagrams.net/?splash=0&clibs=U
 ```
-## Terms of Use
-The SAP Terms of Use found in document Terms Of Use for the SAP Business Technology Platform Solution Diagrams, Design Elements & Icons govern your use of these SAP materials (as defined in the Terms of Use), and related Content and web pages. These libraries are made for convenience and may be retracted at any time, on discretion by SAP SE. All rights reserved SAP SE. The SAP Materials and all copies shall remain at all times the exclusive property of SAP SE
-and/or an SAP affiliate company.
+Custom library for Draw.io, based on SAP Business Technology Platform Solution Diagrams & Icons. These libraries are made for convenience and may be retracted at any time, on discretion by SAP SE. All rights reserved SAP SE. The SAP Materials and all copies shall remain at all times the exclusive property of SAP SE and/or an SAP affiliate company. The SAP Terms of Use found in document [Terms Of Use for the SAP Business Technology Platform Solution Diagrams, Design Elements & Icons]( https://d.dam.sap.com/a/nXJJmw/SAP%20Cloud%20Platform%20Diagrams%20and%20Icons%20Terms%20of%20Use.pdf) govern your use of these SAP materials (as defined in the Terms of Use), and related Content and web pages.
 
 
