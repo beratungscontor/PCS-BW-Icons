@@ -6,8 +6,7 @@
 Author(s): [Ronnie Sletta](https://github.com/rsletta) and [Mauricio Lauffer](https://github.com/mauriciolauffer)*
 
 ## What is this about?
-Custom library for PCS SAP BW Icons in [Draw.io](https://app.diagrams.net/), based on [SAP Business Technology Platform Solution Diagrams & Icons](https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=477829554). These libraries are made for convenience and may be retracted at any time, on discretion by SAP SE. All rights reserved SAP SE. The SAP Materials and all copies shall remain at all times the exclusive property of SAP SE
-and/or an SAP affiliate company.
+Custom library for PCS SAP BW Icons in [Draw.io](https://app.diagrams.net/), based on [SAP Business Technology Platform Solution Diagrams & Icons](https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=477829554).
 
 The goal is a **SAP Business Warehouse Icon Library** to support visualization of data model. Therefore you can link your Draw.io (Diagrams.net) with cloud-based applications or like in this case – with your Github repository.
 
@@ -48,6 +47,8 @@ You can find a blank template without any preloaded libraries under:
 ```Powershell
 https://app.diagrams.net/?splash=0&clibs=U
 ```
-
+## Terms of Use
+The SAP Terms of Use found in document Terms Of Use for the SAP Business Technology Platform Solution Diagrams, Design Elements & Icons govern your use of these SAP materials (as defined in the Terms of Use), and related Content and web pages. These libraries are made for convenience and may be retracted at any time, on discretion by SAP SE. All rights reserved SAP SE. The SAP Materials and all copies shall remain at all times the exclusive property of SAP SE
+and/or an SAP affiliate company.
 
 
