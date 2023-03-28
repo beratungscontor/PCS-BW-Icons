@@ -13,9 +13,6 @@ A first version is already build and operational:
 | integrated lib:
 | ------------- 
 | ![Github_picture_pcs_icons](https://user-images.githubusercontent.com/117898322/214814243-7f638b45-7106-4af1-8961-1f32d0487f10.png)
-
-## How to Install and Run the Project
-The first step is to consider whether to use the templates in the Draw.io desktop-application with local and manual data integration of the icon libraries, or online within the web-application and integrated lib. The former variant allows the libraries to be customized according to the user's own preferences.
  
 ## Online Usage | web-application
 For the web application, an initial link is available that includes the icons of the current state. *Template contains SAP | SAP BTP | BW Icons) (03/23)* 
