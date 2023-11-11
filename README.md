@@ -20,6 +20,8 @@ This Web-App is attached with libraries from this repository and will generate a
 
 **Access the template**: **[PCS Template](https://app.diagrams.net/?splash=0&clibs=Uhttps://raw.githubusercontent.com/beratungscontor/PCS-BW-icons/main/PCS_BW_Icons.xml;Uhttps://raw.githubusercontent.com/beratungscontor/PCS-BW-icons/main/SAP_Icons.xml;Uhttps://raw.githubusercontent.com/beratungscontor/PCS-BW-icons/main/SAP_BTP_Service_Icons.xml)** 
 
+**Access the template with reference architectures**: **[PCS Template Reference Architecture](https://app.diagrams.net/?clibs=Uhttps://raw.githubusercontent.com/beratungscontor/PCS-BW-icons/main/PCS_BW_Icons.xml;Uhttps://raw.githubusercontent.com/beratungscontor/PCS-BW-icons/main/SAP_Icons.xml;Uhttps://raw.githubusercontent.com/beratungscontor/PCS-BW-icons/main/SAP_BTP_Service_Icons.xml&#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fberatungscontor%2FPCS-BW-Icons%2Fmain%2Fsap-btp-reference-architectures-data-analytics.drawio)**
+
 ## Offline Usage | Desktop Application
 For the desktop application you have to download and install [draw.io Desktop](https://www.drawio.com/). After the installation you can add each library  by
 * BW-Icons: File > Open Library... > Add and open the file name https://raw.githubusercontent.com/beratungscontor/PCS-BW-icons/main/PCS_BW_Icons.xml
