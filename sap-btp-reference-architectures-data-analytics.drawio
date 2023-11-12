@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e" pages="6">
     <diagram name="Reference Data Architecture" id="Jd5bQMqYXPr2YD6PjJ-d">
-        <mxGraphModel dx="1002" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+        <mxGraphModel dx="485" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -322,8 +322,8 @@
                         <mxPoint x="377" y="77" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="64dmOtjgmcvicQboO2y5-1" value="Quelle:&amp;nbsp;https://github.com/SAP/sap-btp-reference-architectures/tree/main/data-analytics" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="40" y="700" width="590" height="30" as="geometry"/>
+                <mxCell id="64dmOtjgmcvicQboO2y5-1" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;Overview of Reference Architecture Documentations&lt;br&gt;&lt;/b&gt;https://discovery-center.cloud.sap/refArchCatalog/&lt;br&gt;&lt;br&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Source of Draw.io Diagrams&lt;br&gt;&lt;/b&gt;https://github.com/SAP/sap-btp-reference-architectures/tree/main/data-analytics" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="719" width="590" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
